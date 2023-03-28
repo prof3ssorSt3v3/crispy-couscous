@@ -7,10 +7,10 @@ main {
   grid-template-rows: 400px 400px;
   gap: 1rem;
 
-  /* background-image: url();
+  background-image: url(../img/library.webp);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center; */
+  background-position: center center;
 }
 p {
   font-family: system-ui;
